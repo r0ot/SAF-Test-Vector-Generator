@@ -25,8 +25,3 @@ And the one from the lecture slides:
 ianperry$ python script.py "a | (b & c)"
 Your test vectors are (‘acb’): 
 ('010', '011', '001', '110')
-
-The second one is very easy to check (it’s already done on the lecture slides).
-
-Overall this program wasn’t too bad.  Once I thought about how I was going to do it for long enough, then it just came down to putting it in code.  Like I said, the hardest part was handling the internal wire faults.  I feel extremely accomplished after completing this assignment.
-
